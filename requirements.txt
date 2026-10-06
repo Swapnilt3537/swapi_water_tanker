@@ -1,6 +1,2 @@
 # Swapi Water Tanker Requirements
-# The core project, CLI, and Tkinter GUI run entirely on Python's Standard Library (Python 3.8+)
-# Zero external packages required!
-
-# Optional developer & packaging tools:
-# pyinstaller>=6.0.0   # To bundle into a standalone Windows .exe
+streamlit>=1.30.0
